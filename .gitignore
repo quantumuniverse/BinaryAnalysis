@@ -2,17 +2,19 @@
 *.out
 *.pyc
 gmf*.npy
+/results/n_jobs(61)/mc_times(10^2x1.0)
+/results/n_jobs(61)/mc_times(10^3x1.0)
 /results/n_jobs(61)/mc_times*/*/*/*/*/*/*/fragments
 /results/n_jobs(61)/mc_times*/*/*/*/*/*/*/originalData
 /results/n_jobs(61)/mc_times*/*/*/*/*/*/*/Prob
 /results/n_jobs(61)/mc_times*/*/*/*/*/*/*/sigmaList
 /results/n_jobs(61)/mc_times*/*/*/*/*/*/*/picData
-/results/n_jobs(61)/mc_times*/*/*/*/*/*/*/pics
+# /results/n_jobs(61)/mc_times*/*/*/*/*/*/*/pics
 /figures
 /.vscode
 /__pycache__
 /code_bak
 /Archived
 /binary/MockSamples
-/binary/dataTable
+# /binary/dataTable
 # /TrapOfObviousRVchange.ipynb
